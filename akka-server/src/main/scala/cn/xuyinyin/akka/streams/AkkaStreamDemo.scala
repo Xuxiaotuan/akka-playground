@@ -1,4 +1,4 @@
-package cn.xuyinyin.akka.Streams
+package cn.xuyinyin.akka.streams
 
 import akka.stream.{ClosedShape, UniformFanInShape}
 import akka.stream.scaladsl.{Broadcast, Flow, GraphDSL, Merge, RunnableGraph, Sink, Source}
